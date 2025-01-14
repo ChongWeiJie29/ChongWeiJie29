@@ -23,7 +23,6 @@ Here are the list of technologies I've been keeping up to date with!
 **Languages**:  
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,c,cpp,go,dart,java,py)](https://skillicons.dev)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=)
 
 **Frontend**
 

@@ -53,3 +53,9 @@ Here are the list of technologies I've been keeping up to date with!
 - [LinkedIn](https://www.linkedin.com/in/chong-wei-jie-4630a8231/)
 
 Feel free to reach out for collaborations, feedback, or just a friendly chat! 🌟
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ChongWeiJie29&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChongWeiJie29&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChongWeiJie29&show_icons=true&theme=radical&hide=stars)
